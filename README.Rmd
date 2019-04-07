@@ -1,1 +1,1 @@
-![KLIKNIJ ABY ROZPOCZĄĆ](test.html)
+[**KLIKNIJ ABY ROZPOCZĄĆ**](test.html)
